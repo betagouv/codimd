@@ -108,6 +108,7 @@
     margin-bottom: 16px;
     font-weight: 600;
     line-height: 1.25;
+    color: #53657D;
 }
 
 .night .markdown-body h1,
@@ -117,6 +118,7 @@
 .night .markdown-body h5,
 .night .markdown-body h6 {
     color: #ddd;
+    border-bottom-color: #ddd;
 }
 
 .markdown-body h1 .fa-link,
@@ -174,15 +176,20 @@
 }
 
 .markdown-body h1 {
+    /*
     padding-bottom: 0.3em;
+    */
     font-size: 2em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 5px solid #0053B3;
+    color: #0053B3;
 }
 
 .markdown-body h2 {
+    /*
     padding-bottom: 0.3em;
+    */
     font-size: 1.5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 3px solid #53657D;
 }
 
 .markdown-body h3 {
