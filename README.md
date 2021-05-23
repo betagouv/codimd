@@ -1,6 +1,8 @@
 CodiMD
 ===
 
+# Migration to [HedgeDoc](https://github.com/betagouv/hedgedoc)
+
 [![build status][travis-image]][travis-url]
 [![version][github-version-badge]][github-release-page]
 [![Gitter][gitter-image]][gitter-url]
